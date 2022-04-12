@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Nikita aka Defite. I'm frontend engineer in [Mail.ru](https://mail.ru). I develop [Webgrower](https://webgrower.ru/) - almost everyday magazine about web development, adore Jamstack and creating useless personal/blog/portfolio themes on top of Gatsby.js, Nuxt.js, Next.js and so on.
+I'm Frontend Developer in [VK](https://vk.company/). I like poking around with Jamstack as well as React and Vue frameworks such as Gatsby, Next, Nuxt etc.
 
 <!--
 **Defite/Defite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
